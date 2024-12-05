@@ -95,9 +95,9 @@ tensorflow==2.16.2
 termcolor==2.4.0
 threadpoolctl==3.5.0
 tifffile==2024.8.30
-torch==2.5.1+cpu
-torchaudio==2.5.1+cpu
-torchvision==0.20.1+cpu
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
 tornado==6.4.1
 tqdm==4.66.5
 transformers==4.42.4
